@@ -1,32 +1,31 @@
-// console.log("4*4");
-// alert("saytimizga hush kelibsiz!");
-// document.write("Men Body oynasida korinaman!");
-// let x=2;
-// let y=5;
-// x=10;
-// let s=2,r=5,g=7
-// document.write(s+r+g);
+/* console.log(4*4); */
+/* alert("Saytimizga xush kelibsiz!"); */
+/* document.write("Men body oynasida chiqaman!"); */
+/* let x = 2; */
+/* let y = 5; */
+/* let salom = "Assalomu alaykum!"; */
+/* let rang = "#f1f1f1"; */
+/* let x = 2, y = 5, z = 10; */
+/* document.write(x+y+z); */
 
-/* JS data types*/
-// let x = 5;
-// let y = "JavaScript"
-// document.write(typeof y);
+/* JS data types (number,string) */
+/*let x = 5;*/
+/*let matn = "JavaScript";*/
+/*document.write(typeof matn);*/
 
-/* js arifmetik amallar*/
-let x =50
-// x+=1
-// x-=2
-// x*=55
-// x/=2
-// let qoldiq =x%12
-// let natija =x**2 /* *50*50*50*50*50 => */
+/* JSda arifmetik va matematik amallar */
+/* let x = 5; */
+/* x+=2; */ /* x = 5 + 2 */
+/* x-=5; */ /* x = 5 - 2 */
+/* x*=5; */ /* x = 5 * 5 */
+/* x/=2; */ /* x = 5 / 2 */
+/* let qoldiq = x% 5; */
+/* let natija = x**5; */ /* 50*50*50*50*50 => 312500000 */
 /* ++x; */
 /* --x; */
-/* x--; */
 /* x++; */
-/*let son="5"*/
-/*let matnson="55"*/
-/*document.write(matnson/5)*/
-
-
-
+/* x--; */
+/* document.write(x); */
+/* let son = 5; */
+/* let matnSon = "50"; */
+/* document.write("55"*5); */
